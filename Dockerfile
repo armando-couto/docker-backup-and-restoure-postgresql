@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-FROM postgres:14.4
+FROM postgres:14.5
 
 COPY job.sh .
 
